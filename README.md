@@ -6,8 +6,8 @@ I would like to have an application helping me do the table seating at larger pa
 
 # Specification
 ## Input variables:
-- List of tables with seats. Eg if there are 6 tables, 2 with 6 seats and 4 with 8 seats this list would be: tables[6,6,8,8,8,8]
-- List of guests. The guests can be couples or singles, this example shows the first 12 guests: guests["Anna,Johan","Niklas","Lisa,Noah","Eva,Erik","Malin,Lars P.","Annika","Linda,Elin"]
+- List of tables with seats. Eg if there are 6 tables, 2 with 6 seats and 4 with 8 seats this list would be: `tables[6,6,8,8,8,8]`. This input is an example. Perhaps there is a better way of adding tables?
+- List of guests. The guests can be couples or singles, this example shows the first 12 guests: `guests["Anna,Johan","Niklas","Lisa,Noah","Eva,Erik","Malin,Lars P.","Annika","Linda,Elin"]`. This input is an example. If creating a web app then perhaps a multirow textarea might be suitable with one couple/singel per row.
 - Boolean allowing couples to be split or not: `allowSplittedCouples` true/false
 
 ## Functionality
