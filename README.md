@@ -2,7 +2,7 @@
 
 Please help me out with creating a table seating randomizer!
 
-I would like to have an application helping me do the table seating at larger parties! I'd like an application randomizing the seats and here are the feature requests for version 1.0:
+I would like to have an application helping me do the table seating at larger parties! Think a wedding with 50-100 guests. Everyone changes tables after each course and everybody sits with different guests at each course. I'd like an application randomizing the seats! Please help me develop one using this repo. Here are the feature requests for version 1.0:
 
 # Specification
 ## Input variables:
